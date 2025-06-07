@@ -13,3 +13,5 @@
 /CONSUMER/obj
 /.vs/ProjectEvaluation
 /COMMON/obj
+/COMMON/bin/Debug/net8.0
+/CONSUMER/bin/Debug/net8.0
