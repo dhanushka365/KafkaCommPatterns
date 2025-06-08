@@ -2,5 +2,6 @@
 {
     public class WantsDeleteSampleEvent
     {
+        public string Id { get; set; }
     }
 }
