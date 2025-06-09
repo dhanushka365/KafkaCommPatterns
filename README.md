@@ -15,7 +15,7 @@ This project implements a microservices-based architecture with the following co
 
 The following diagram illustrates the create request event flow in our system:
 
-![Create Request Event Flow](../images/create%20flow.png)
+![Create Request Event Flow](../images/createflow.png)
 
 ## 🚀 Features
 
